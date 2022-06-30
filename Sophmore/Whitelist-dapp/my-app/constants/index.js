@@ -2,67 +2,65 @@ export const abi = [
   {
     inputs: [
       {
-        internalType: 'uint8',
-        name: '_maxWhitelistedAddress',
-        type: 'uint8',
+        internalType: "uint8",
+        name: "_maxWhitelistedAddresses",
+        type: "uint8",
       },
     ],
-    stateMutability: 'nonpayable',
-    type: 'constructor',
+    stateMutability: "nonpayable",
+    type: "constructor",
   },
   {
     inputs: [],
-    name: 'addAddressToWhitelist',
+    name: "addAddressToWhitelist",
     outputs: [],
-    stateMutability: 'nonpayable',
-    type: 'function',
+    stateMutability: "nonpayable",
+    type: "function",
   },
   {
     inputs: [],
-    name: 'maxWhitelistedAddresses',
+    name: "maxWhitelistedAddresses",
     outputs: [
       {
-        internalType: 'uint8',
-        name: '',
-        type: 'uint8',
+        internalType: "uint8",
+        name: "",
+        type: "uint8",
       },
     ],
-    stateMutability: 'view',
-    type: 'function',
+    stateMutability: "view",
+    type: "function",
   },
   {
     inputs: [],
-    name: 'numAddressWhitelisted',
+    name: "numAddressesWhitelisted",
     outputs: [
       {
-        internalType: 'uint8',
-        name: '',
-        type: 'uint8',
+        internalType: "uint8",
+        name: "",
+        type: "uint8",
       },
     ],
-    stateMutability: 'view',
-    type: 'function',
+    stateMutability: "view",
+    type: "function",
   },
   {
     inputs: [
       {
-        internalType: 'address',
-        name: '',
-        type: 'address',
+        internalType: "address",
+        name: "",
+        type: "address",
       },
     ],
-    name: 'whitelistedAddresses',
+    name: "whitelistedAddresses",
     outputs: [
       {
-        internalType: 'bool',
-        name: '',
-        type: 'bool',
+        internalType: "bool",
+        name: "",
+        type: "bool",
       },
     ],
-    stateMutability: 'view',
-    type: 'function',
+    stateMutability: "view",
+    type: "function",
   },
 ];
-
-export const WHITELIST_CONTRACT_ADDRESS =
-  '0xe483F34f3A88080786b70387D172BebC826340a7';
+export const WHITELIST_CONTRACT_ADDRESS = "0xEFD4155D2a481997825Fd2340420f971dA1Ccc20"
