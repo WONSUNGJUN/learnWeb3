@@ -74,3 +74,5 @@ npm run build
 npm run start
 ```
 
+배포 링크 : https://whitelist-dapp-wonsungjun.vercel.app/
+
