@@ -22,6 +22,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+*.pem
+
 # history
 .history
 
@@ -35,4 +37,12 @@ typechain
 cache
 artifacts
 
+# vscode
 .vscode
+
+# vercel
+.vercel
+
+# next.js
+/.next/
+/out/
