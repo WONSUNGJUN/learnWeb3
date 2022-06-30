@@ -34,9 +34,9 @@ npx hardhat compile
 npx hardgat run script/deploy.js --network rinkeby
 ```
 
-Contract Address : 0x624189017bE9010f9d64A559b9Fd10641B7B0170
+Contract Address : 0xEFD4155D2a481997825Fd2340420f971dA1Ccc20
 
-Etherscan 확인 : https://rinkeby.etherscan.io/address/0x624189017be9010f9d64a559b9fd10641b7b0170
+Etherscan 확인 : https://rinkeby.etherscan.io/address/0xEFD4155D2a481997825Fd2340420f971dA1Ccc20
 
 ---
 
