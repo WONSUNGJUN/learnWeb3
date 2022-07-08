@@ -57,20 +57,16 @@
      3. ㅇㄴㅇㄴㅇㄴ
      4. ㅇㄴㅇㄴㅇㄴㅇㄴ
      5. ㅇㄴㅇㄴㅇㄴㅇㄴㅇㄴㅇ
-     6. ㅇㄴㅇㄴㅇㄴ
-     7. ㅇㄴㅇㄴ
-     8. ㅇㄴㅇㄴ
-     9. ㅇㄴ
-     10. 
 
-https://sandbox.eth.build/
-마이닝풀 - https://etherscan.io/stat/miner?range=7&blocktype=blocks
+- https://sandbox.eth.build/
+- 마이닝풀 - https://etherscan.io/stat/miner?range=7&blocktype=blocks
 
 
 ---
 
 - [Whitelist Dapp을 만들어보자](Whitelist-dapp/README.md)
-     
+- [NFT Collection 디앱을 만들어보자](NFT-collection/README.md)
+- 
 
 
 
