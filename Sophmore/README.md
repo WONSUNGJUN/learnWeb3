@@ -66,7 +66,7 @@
 
 - [Whitelist Dapp을 만들어보자](Whitelist-dapp/README.md)
 - [NFT Collection 디앱을 만들어보자](NFT-collection/README.md)
-- 
+- [ICO 디앱을 만들어보자](ICO/README.md)
 
 
 
