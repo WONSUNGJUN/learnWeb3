@@ -30,7 +30,7 @@ npm run dev
 - Contract address : 0x321D7a612D6703cf49e4960A2f4c9e4ecfB3542c
 - https://rinkeby.etherscan.io/address/0x321D7a612D6703cf49e4960A2f4c9e4ecfB3542c
 
-- 
+- https://ico-indol-six.vercel.app/
 
 
 
